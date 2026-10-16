@@ -88,6 +88,10 @@ Yayın sonrası `site/index.html` içindeki `og:image` değerini **mutlak HTTPS 
 - Duyarlı tasarım, klavyeyle kullanılabilir kontroller, grafik başlığı/açıklaması ve `prefers-reduced-motion` desteği
 - Sosyal paylaşım görseli: `site/assets/og-image.png` (1200 × 627 px)
 
+## Canlı Demo
+
+https://turkiye-elektrik-donusumu.vercel.app/
+
 ## Akademik kullanım ve yapay zekâ beyanı
 
 OpenAI ChatGPT, kod iskeleti, veri işleme akışı, hata ayıklama ve arayüz kodlamasında destek için kullanılmıştır.
