@@ -1,0 +1,43 @@
+{
+  "project_title": "Türkiye'nin Elektrik Dönüşümü",
+  "subtitle": "2000–2024: Üretim, kaynaklar ve değişen dengeler",
+  "research_question": "Türkiye'de elektrik üretimi 2000–2024 arasında nasıl değişti; bu dönemde hangi kaynakların üretimi en çok arttı ve fosil yakıtların toplam üretimdeki payı nasıl değişti?",
+  "country": "Türkiye",
+  "country_iso3": "TUR",
+  "start_year": 2000,
+  "end_year": 2024,
+  "source_name": "Ember – Yearly Electricity Data (Europe CSV)",
+  "source_url": "https://ember-energy.org/data/yearly-electricity-data/",
+  "license": "CC BY 4.0 (kaynak sayfasında belirtildiği üzere)",
+  "source_access_date": "2026-10-16",
+  "units": {
+    "generation": "TWh",
+    "share": "%",
+    "share_change": "percentage points"
+  },
+  "metrics": {
+    "total_generation_start_twh": 124.38,
+    "total_generation_end_twh": 341.23,
+    "total_generation_change_pct": 174.345,
+    "fossil_generation_start_twh": 93.22,
+    "fossil_generation_end_twh": 185.58,
+    "fossil_generation_change_pct": 99.077,
+    "renewables_generation_start_twh": 31.16,
+    "renewables_generation_end_twh": 155.65,
+    "renewables_generation_change_pct": 399.519,
+    "fossil_share_start_pct": 74.948,
+    "fossil_share_end_pct": 54.386,
+    "fossil_share_change_pp": -20.562,
+    "renewables_share_start_pct": 25.052,
+    "renewables_share_end_pct": 45.614,
+    "renewables_share_change_pp": 20.562,
+    "largest_absolute_source_increase": "Hard coal",
+    "largest_absolute_source_increase_twh": 74.79
+  },
+  "method_notes": [
+    "Toplam göstergelerde Ember'ın sağladığı toplulaştırılmış satırlar kullanılmıştır.",
+    "Kaynak kırılımında çifte sayımı önlemek için birbirini dışlayan kaynak bileşenleri kullanılmıştır.",
+    "Net imports bir elektrik üretim kaynağı olmadığı için üretim karması yüzdelerine dahil edilmemiştir.",
+    "Bu analiz betimleyicidir; zaman içindeki değişimler tek başına nedensellik göstermez."
+  ]
+}

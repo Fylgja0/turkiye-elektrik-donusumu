@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173b35">
+  <title>Türkiye'nin Elektrik Dönüşümü | Veri Hikâyesi</title>
+  <meta name="description" content="Türkiye'nin elektrik üretimi 2000–2024 arasında nasıl değişti? Ember verileriyle üretim, kaynak bileşimi ve fosil yakıtların payını keşfedin.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Türkiye'nin Elektrik Dönüşümü">
+  <meta property="og:description" content="Elektrik üretimi büyürken kaynakların payı nasıl değişti? 2000–2024 verilerini kaydırarak keşfedin.">
+  <meta property="og:image" content="./assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./css/style.css">
+  <script defer src="./js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Ana içeriğe geç</a>
+  <header class="topbar">
+    <a class="wordmark" href="#top" aria-label="Türkiye'nin Elektrik Dönüşümü, başa dön">
+      <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span>VERİ HİKÂYESİ<span class="wordmark-sub">ENERJİ · TÜRKİYE</span></span>
+    </a>
+    <nav aria-label="Ana gezinme">
+      <a href="#hikaye">Hikâye</a>
+      <a href="#kesfet">Kendin keşfet</a>
+      <a href="#yontem">Yöntem</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="hero-copy">
+        <p class="eyebrow light"><span class="eyebrow-dot"></span> VERİYLE ANLATILAN BİR DÖNÜŞÜM · 2000—2024</p>
+        <h1 id="hero-title">Türkiye'nin elektrik üretimi <span class="hero-highlight" id="hero-multiplier">2,7 katına</span> çıktı.</h1>
+        <p class="hero-deck">Peki bu büyümeyi hangi kaynaklar karşıladı? Üretim artarken fosil yakıtların payı nasıl değişti? 25 yıllık verinin izini aşağı kaydırarak sür.</p>
+        <div class="hero-byline"><span>AHMETCAN BAĞLI</span><span class="byline-separator">/</span><span>16 EKİM 2026</span><span class="byline-separator">/</span><span>EMBER VERİLERİ</span></div>
+        <a class="scroll-cue" href="#baglam"><span class="scroll-icon" aria-hidden="true">↓</span> Aşağı kaydır, hikâyeyi keşfet</a>
+      </div>
+      <div class="hero-art" aria-label="Elektrik üretimi artışını temsil eden dekoratif çizgi illüstrasyonu">
+        <div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div>
+        <div class="hero-sun"></div>
+        <svg viewBox="0 0 560 440" role="img" aria-labelledby="hero-svg-title hero-svg-desc">
+          <title id="hero-svg-title">Yukarı çıkan üretim çizgisi</title>
+          <desc id="hero-svg-desc">Grafik çizgisi 2000 yılından 2024 yılına doğru yükseliyor.</desc>
+          <path d="M32 352 H522 M32 278 H522 M32 204 H522 M32 130 H522" class="hero-gridline"/>
+          <path d="M38 330 C82 338 92 298 128 307 S184 265 225 280 S282 235 320 244 S382 180 420 189 S481 105 523 75" class="hero-line-shadow"/>
+          <path d="M38 330 C82 338 92 298 128 307 S184 265 225 280 S282 235 320 244 S382 180 420 189 S481 105 523 75" class="hero-line"/>
+          <circle cx="38" cy="330" r="7" class="hero-point-start"/><circle cx="523" cy="75" r="9" class="hero-point-end"/>
+          <text x="38" y="378" class="hero-axis-label">2000</text><text x="523" y="48" text-anchor="end" class="hero-axis-label">2024</text>
+          <text x="40" y="410" class="hero-unit">ELEKTRİK ÜRETİMİ · TWh</text>
+        </svg>
+        <div class="hero-art-note"><span class="note-dot"></span><span>Bir artış hikâyesi.<br><b>Birden fazla kaynak.</b></span></div>
+      </div>
+      <div class="hero-bottom-rule"><span>01 / ÜRETİM</span><span>02 / KAYNAK KARMASI</span><span>03 / DEĞİŞEN PAYLAR</span></div>
+    </section>
+
+    <section class="context section-pad" id="baglam" aria-labelledby="context-title">
+      <div class="section-kicker"><span>01</span><span>ÖNCE BAĞLAM</span></div>
+      <div class="context-content">
+        <h2 id="context-title">Yalnızca ne kadar ürettiğimiz değil, <em>nasıl ürettiğimiz</em> de önemli.</h2>
+        <div class="context-columns">
+          <p>Elektrik üretimindeki büyüme tek başına dönüşümün tamamını anlatmaz. Toplam üretim, kaynakların ürettiği elektrik miktarı ve bu kaynakların toplam içindeki payı birlikte okunmalı.</p>
+          <p>Bu hikâye, Ember'ın yıllık elektrik verilerinde Türkiye için yayımlanan 2000–2024 gözlemlerini karşılaştırıyor. Veriler değişimin boyutunu gösterir; tek başına nedenini kanıtlamaz.</p>
+        </div>
+        <div class="context-stats" aria-label="Temel bulgular">
+          <div class="stat-card stat-light"><span class="stat-label">2000 TOPLAM ÜRETİM</span><strong id="stat-total-start">—</strong><span class="stat-unit">teravatsaat (TWh)</span></div>
+          <div class="stat-card stat-lime"><span class="stat-label">2024 TOPLAM ÜRETİM</span><strong id="stat-total-end">—</strong><span class="stat-unit">teravatsaat (TWh)</span></div>
+          <div class="stat-card stat-dark"><span class="stat-label">FOSİL PAYINDA DEĞİŞİM</span><strong id="stat-fossil-change">—</strong><span class="stat-unit">yüzde puan</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="story-section" id="hikaye" aria-labelledby="story-heading">
+      <div class="story-intro section-pad">
+        <div class="section-kicker"><span>02</span><span>HİKÂYEYİ KAYDIR</span></div>
+        <div><h2 id="story-heading">Bir sayıdan fazlası.</h2><p>Metin adımları ilerledikçe sağdaki görsel değişir. Her grafik aynı sorunun başka bir parçasını gösterir.</p></div>
+      </div>
+      <div class="story-layout">
+        <aside class="story-visual" aria-label="Kaydırma adımına göre değişen grafik">
+          <div class="visual-topline"><span class="visual-eyebrow" id="story-chart-kicker">BULGU 01 / ÖLÇEK</span><span class="visual-index" id="story-chart-index">01—06</span></div>
+          <h3 id="story-chart-title">Üretim 2000–2024 arasında büyüdü</h3>
+          <p class="visual-description" id="story-chart-description">Yıllara göre toplam elektrik üretimi.</p>
+          <div class="chart-wrap" id="story-chart-wrap"><svg id="story-chart" viewBox="0 0 900 520" role="img" aria-label="2000–2024 yıllık toplam elektrik üretimi çizgi grafiği"><title>Toplam elektrik üretimi</title><desc>Grafik verileri yükleniyor.</desc></svg></div>
+          <div class="chart-foot"><span id="story-axis-note">Dikey eksen: elektrik üretimi (TWh)</span><span>Kaynak: Ember</span></div>
+          <div class="visual-progress" aria-hidden="true"><span id="visual-progress-fill"></span></div>
+        </aside>
+
+        <div class="story-steps">
+          <article class="story-step is-active" data-step="growth" aria-labelledby="step-growth-title">
+            <div class="step-number">01 <span>— ÖLÇEK</span></div>
+            <h3 id="step-growth-title">Önce toplam büyümeye bakalım.</h3>
+            <p>Türkiye'nin yıllık elektrik üretimi 2000'de <strong id="text-total-start">—</strong> TWh iken 2024'te <strong id="text-total-end">—</strong> TWh oldu. Toplam üretimdeki artış yaklaşık <strong id="text-total-growth">—</strong>.</p>
+            <p class="step-question">Bu artışın hangi kaynaklardan geldiğini anlamak için yalnızca toplam çizgiye bakmak yeterli mi?</p>
+          </article>
+          <article class="story-step" data-step="shares" aria-labelledby="step-shares-title">
+            <div class="step-number">02 <span>— PAYLAR</span></div>
+            <h3 id="step-shares-title">Paylar farklı yönlerde değişti.</h3>
+            <p>Fosil yakıtların toplam üretim içindeki payı <strong id="text-fossil-share-start">—</strong>'ten <strong id="text-fossil-share-end">—</strong>'e geriledi. Yenilenebilir kaynakların payı ise <strong id="text-renew-share-start">—</strong>'ten <strong id="text-renew-share-end">—</strong>'e yükseldi.</p>
+            <p class="step-question">Paydaki değişim, üretilen elektrik miktarının da aynı yönde değiştiği anlamına gelir mi?</p>
+          </article>
+          <article class="story-step" data-step="mix" aria-labelledby="step-mix-title">
+            <div class="step-number">03 <span>— KAYNAK KARMASI</span></div>
+            <h3 id="step-mix-title">Kaynakların ağırlığı aynı kalmadı.</h3>
+            <p>Yığılmış alan grafiği, üretimi beş ana grupta toplar: fosil yakıtlar, hidroelektrik, karasal rüzgâr, güneş ve diğer yenilenebilirler. Böylece büyük eğilimleri, alt kaynak ayrıntılarında kaybolmadan karşılaştırabiliriz.</p>
+            <p class="step-question">Hangi kaynakların büyümesi kaynak karmasında en görünür değişimi oluşturuyor?</p>
+          </article>
+          <article class="story-step" data-step="source-change" aria-labelledby="step-source-change-title">
+            <div class="step-number">04 <span>— KAYNAK FARKI</span></div>
+            <h3 id="step-source-change-title">Üretim artışında taş kömürü öne çıktı.</h3>
+            <p>2000 ile 2024 arasındaki mutlak üretim farkı karşılaştırıldığında, dosyadaki ayrıntılı kaynaklar içinde en büyük artış <strong id="text-top-source">—</strong> kaydında görülüyor: <strong id="text-top-source-change">—</strong> TWh.</p>
+            <p class="step-question">Mutlak artış, başlangıçtaki üretime oranla büyümeyle aynı şey değildir. İki ölçüyü karıştırmamak gerekir.</p>
+          </article>
+          <article class="story-step" data-step="renewables" aria-labelledby="step-renewables-title">
+            <div class="step-number">05 <span>— YENİLENEBİLİRLER</span></div>
+            <h3 id="step-renewables-title">Yenilenebilirlerin içinde de farklı eğriler var.</h3>
+            <p>Hidroelektrik, karasal rüzgâr ve güneş üretiminin zaman içindeki seyri birbirinden farklı. Tek bir “yenilenebilir” toplamı bu farklı başlangıç noktalarını ve büyüme desenlerini gizleyebilir.</p>
+            <p class="step-question">Bu üç kaynağın üretim eğrileri hangi yıllarda birbirinden ayrışıyor?</p>
+          </article>
+          <article class="story-step" data-step="amounts" aria-labelledby="step-amounts-title">
+            <div class="step-number">06 <span>— SONUÇ</span></div>
+            <h3 id="step-amounts-title">Pay gerilerken miktar artabilir.</h3>
+            <p>Fosil yakıtlarla üretilen elektrik <strong id="text-fossil-amount-start">—</strong> TWh'den <strong id="text-fossil-amount-end">—</strong> TWh'ye çıktı. Aynı dönemde bu kaynakların toplam üretimdeki payı geriledi. Pay ile miktar aynı soruya yanıt vermez.</p>
+            <p class="step-question">Ana çıkarım: üretimdeki değişimi değerlendirirken hem toplam miktarı hem de toplam içindeki payı birlikte okumalıyız.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="explore-section section-pad" id="kesfet" aria-labelledby="explore-title">
+      <div class="section-kicker"><span>03</span><span>SIRA SENDE</span></div>
+      <div class="explore-heading"><h2 id="explore-title">Veride kendi izini sür.</h2><p>Bir kaynak seç, üretim miktarını ya da toplam içindeki payını görüntüle ve başlangıç yılını değiştir.</p></div>
+      <div class="explore-panel">
+        <div class="explore-controls">
+          <div class="control-group"><label for="source-select">Elektrik kaynağı</label><select id="source-select"><option value="Hydro">Hidroelektrik</option></select></div>
+          <fieldset class="control-group measure-control"><legend>Göstergenin türü</legend><div class="segmented"><label><input type="radio" name="measure" value="generation_twh" checked><span>Üretim (TWh)</span></label><label><input type="radio" name="measure" value="share_pct"><span>Üretim payı (%)</span></label></div></fieldset>
+          <div class="control-group year-control"><label for="year-range">Başlangıç yılı <strong id="year-range-value">2000</strong></label><input id="year-range" type="range" min="2000" max="2024" step="1" value="2000"><div class="range-labels"><span>2000</span><span>2024</span></div></div>
+        </div>
+        <div class="explore-chart-area">
+          <div class="explore-chart-heading"><div><p class="visual-eyebrow">ETKİLEŞİMLİ GRAFİK</p><h3 id="explore-chart-title">Hidroelektrik üretimi</h3></div><span class="live-tag"><span></span> Filtrelenebilir veri</span></div>
+          <div class="chart-wrap explore-svg-wrap"><svg id="explore-chart" viewBox="0 0 900 470" role="img" aria-label="Seçilen kaynağın yıllara göre değişimini gösteren etkileşimli çizgi grafiği"><title>Kaynak keşif grafiği</title><desc>Seçenek değiştirildiğinde grafik güncellenir.</desc></svg></div>
+          <div class="explore-summary" aria-live="polite">
+            <div><span class="summary-label">SEÇİLEN DÖNEM BAŞLANGICI</span><strong id="explore-start-value">—</strong><small id="explore-start-year">2000</small></div>
+            <div><span class="summary-label">DÖNEM SONU</span><strong id="explore-end-value">—</strong><small id="explore-end-year">2024</small></div>
+            <div><span class="summary-label">NET DEĞİŞİM</span><strong id="explore-delta-value">—</strong><small id="explore-delta-note">Seçilen göstergeye göre</small></div>
+          </div>
+          <p class="chart-source-note" id="explore-source-note">Kaynak: Ember – Yearly Electricity Data (Europe CSV).</p>
+        </div>
+      </div>
+      <p class="explore-caution"><strong>Nasıl okunmalı?</strong> Üretim miktarı TWh, pay ise toplam üretimin yüzdesidir. Paydaki değişim yüzde puanla ifade edilir; yüzde değişimle karıştırılmamalıdır.</p>
+    </section>
+
+    <section class="conclusion section-pad" aria-labelledby="conclusion-title">
+      <div class="section-kicker"><span>04</span><span>PEKİ, NE OLMUŞ?</span></div>
+      <div class="conclusion-layout"><h2 id="conclusion-title">Büyüme tek başına dönüşümün tamamı değil.</h2><div class="conclusion-copy"><p>Bu dönemde toplam elektrik üretimi belirgin biçimde arttı. Yenilenebilir kaynakların üretimi ve payı yükselirken, fosil yakıtlarla üretilen elektriğin miktarı da arttı; buna karşın fosil yakıtların toplam üretimdeki payı düştü.</p><p>Bu betimleyici karşılaştırma, değişimin boyutunu gösterir ancak politika, maliyet, hava koşulları veya teknoloji gibi nedenleri tek başına açıklamaz. Bu nedenleri değerlendirmek için ek veri ve ayrı araştırma gerekir.</p><div class="conclusion-rule"><span></span><p>Bir dönüşümü anlamak için miktara, paya ve zaman aralığına birlikte bak.</p></div></div></div>
+    </section>
+
+    <section class="method-section section-pad" id="yontem" aria-labelledby="method-title">
+      <div class="section-kicker"><span>05</span><span>YÖNTEM & KAYNAK</span></div>
+      <div class="method-grid">
+        <div><h2 id="method-title">Veri nereden geliyor?</h2><p>Bu çalışma, Ember'ın yayımladığı yıllık elektrik verilerinin Avrupa CSV dosyasındaki Türkiye kayıtlarını kullanır. Analiz dönemi 2000–2024 olarak seçilmiştir.</p><a class="source-link" href="https://ember-energy.org/data/yearly-electricity-data/" target="_blank" rel="noopener noreferrer">Ember veri sayfasını ziyaret et <span aria-hidden="true">↗</span></a></div>
+        <div class="method-details">
+          <div class="method-row"><span>VERİ SETİ</span><p>Yearly Electricity Data — Europe CSV</p></div>
+          <div class="method-row"><span>ERİŞİM TARİHİ</span><p>16 Ekim 2026</p></div>
+          <div class="method-row"><span>LİSANS</span><p>CC BY 4.0 (kaynak sayfasında belirtildiği üzere)</p></div>
+          <div class="method-row"><span>BİRİMLER</span><p>Elektrik üretimi: teravatsaat (TWh) · Pay: yüzde (%)</p></div>
+          <div class="method-row"><span>İŞLEME</span><p>Türkiye filtresi, dönem seçimi, eksik/tekrarlı kayıt kontrolü ve kaynak hiyerarşisi kontrolü Python notebook'unda yapılmıştır.</p></div>
+          <div class="method-row"><span>ANALİZ NOTEBOOK'U</span><p>Tekrarlanabilir veri yükleme, temizleme ve grafik üretim akışı proje deposundaki <code>notebooks/analiz.ipynb</code> dosyasında sunulacaktır.</p></div>
+          <div class="method-row"><span>ARAÇLAR</span><p>Python, pandas, NumPy, Matplotlib, Jupyter Notebook, HTML, CSS, JavaScript ve SVG.</p></div>
+          <div class="method-row"><span>YORUM SINIRI</span><p>İlişkiler betimleyicidir; bu analiz tek başına nedensellik iddiası taşımaz.</p></div>
+          <div class="method-row"><span>YAPAY ZEKÂ BEYANI</span><p>OpenAI ChatGPT, kod iskeleti ve hata ayıklama desteği için kullanılmıştır.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="author-section section-pad" aria-labelledby="author-title">
+      <div class="author-mark" aria-hidden="true">AB</div>
+      <div class="author-copy"><p class="visual-eyebrow">BU HİKÂYEYİ HAZIRLAYAN</p><h2 id="author-title">Ahmetcan Bağlı</h2><p>Büyük Veri Analistliği öğrencisi · Backend geliştirme ve veri analitiği</p></div>
+      <div class="author-links"><a href="https://ahmetcanbagli-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolyo <span aria-hidden="true">↗</span></a><a href="https://github.com/Fylgja0" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a><a href="https://www.linkedin.com/in/ahmetcanbagli" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a><a href="mailto:a.can.bagli@gmail.com">E-posta <span aria-hidden="true">↗</span></a></div>
+    </section>
+  </main>
+
+  <footer class="footer"><a class="footer-logo" href="#top">TÜRKİYE'NİN ELEKTRİK DÖNÜŞÜMÜ <span>↗</span></a><p>Kaynak: Ember · Yearly Electricity Data (Europe CSV) · CC BY 4.0</p><a href="#top" class="back-top">Başa dön ↑</a></footer>
+  <noscript><div class="noscript-note">Grafikleri ve etkileşimli keşif bölümünü kullanmak için JavaScript'i etkinleştirin.</div></noscript>
+</body>
+</html>

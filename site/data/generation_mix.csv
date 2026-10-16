@@ -1,0 +1,251 @@
+Year,source,generation_twh,share_pct
+2000,Bioenergy,0.17,0.137
+2000,Gas,46.54,37.418
+2000,Hard coal,3.82,3.071
+2000,Hydro,30.88,24.827
+2000,Lignite,34.37,27.633
+2000,Nuclear,0.0,0.0
+2000,Onshore wind,0.03,0.024
+2000,Other fossil,8.49,6.826
+2000,Other renewables,0.08,0.064
+2000,Solar,0.0,0.0
+2001,Bioenergy,0.18,0.147
+2001,Gas,49.71,40.666
+2001,Hard coal,4.05,3.313
+2001,Hydro,24.01,19.642
+2001,Lignite,34.37,28.117
+2001,Nuclear,0.0,0.0
+2001,Onshore wind,0.06,0.049
+2001,Other fossil,9.77,7.992
+2001,Other renewables,0.09,0.074
+2001,Solar,0.0,0.0
+2002,Bioenergy,0.13,0.101
+2002,Gas,52.53,40.892
+2002,Hard coal,4.09,3.184
+2002,Hydro,33.68,26.218
+2002,Lignite,28.06,21.843
+2002,Nuclear,0.0,0.0
+2002,Onshore wind,0.05,0.039
+2002,Other fossil,9.82,7.644
+2002,Other renewables,0.1,0.078
+2002,Solar,0.0,0.0
+2003,Bioenergy,0.08,0.057
+2003,Gas,63.54,45.535
+2003,Hard coal,8.66,6.206
+2003,Hydro,35.33,25.319
+2003,Lignite,23.59,16.906
+2003,Nuclear,0.0,0.0
+2003,Onshore wind,0.06,0.043
+2003,Other fossil,8.19,5.869
+2003,Other renewables,0.09,0.064
+2003,Solar,0.0,0.0
+2004,Bioenergy,0.08,0.053
+2004,Gas,62.27,41.583
+2004,Hard coal,12.0,8.013
+2004,Hydro,46.08,30.771
+2004,Lignite,22.45,14.992
+2004,Nuclear,0.0,0.0
+2004,Onshore wind,0.06,0.04
+2004,Other fossil,6.72,4.487
+2004,Other renewables,0.09,0.06
+2004,Solar,0.0,0.0
+2005,Bioenergy,0.03,0.019
+2005,Gas,73.48,45.462
+2005,Hard coal,13.25,8.198
+2005,Hydro,39.56,24.476
+2005,Lignite,29.95,18.53
+2005,Nuclear,0.0,0.0
+2005,Onshore wind,0.06,0.037
+2005,Other fossil,5.21,3.223
+2005,Other renewables,0.09,0.056
+2005,Solar,0.0,0.0
+2006,Bioenergy,0.06,0.034
+2006,Gas,80.69,45.782
+2006,Hard coal,14.22,8.068
+2006,Hydro,44.24,25.101
+2006,Lignite,32.43,18.4
+2006,Nuclear,0.0,0.0
+2006,Onshore wind,0.13,0.074
+2006,Other fossil,4.39,2.491
+2006,Other renewables,0.09,0.051
+2006,Solar,0.0,0.0
+2007,Bioenergy,0.09,0.047
+2007,Gas,95.03,49.619
+2007,Hard coal,15.14,7.905
+2007,Hydro,35.85,18.719
+2007,Lignite,38.29,19.993
+2007,Nuclear,0.0,0.0
+2007,Onshore wind,0.36,0.188
+2007,Other fossil,6.6,3.446
+2007,Other renewables,0.16,0.084
+2007,Solar,0.0,0.0
+2008,Bioenergy,0.14,0.071
+2008,Gas,98.68,49.745
+2008,Hard coal,15.86,7.995
+2008,Hydro,33.27,16.772
+2008,Lignite,41.86,21.102
+2008,Nuclear,0.0,0.0
+2008,Onshore wind,0.85,0.428
+2008,Other fossil,7.55,3.806
+2008,Other renewables,0.16,0.081
+2008,Solar,0.0,0.0
+2009,Bioenergy,0.25,0.128
+2009,Gas,96.1,49.33
+2009,Hard coal,16.15,8.29
+2009,Hydro,35.96,18.459
+2009,Lignite,39.54,20.297
+2009,Nuclear,0.0,0.0
+2009,Onshore wind,1.5,0.77
+2009,Other fossil,4.87,2.5
+2009,Other renewables,0.44,0.226
+2009,Solar,0.0,0.0
+2010,Bioenergy,0.33,0.156
+2010,Gas,98.14,46.472
+2010,Hard coal,18.12,8.58
+2010,Hydro,51.8,24.529
+2010,Lignite,36.93,17.487
+2010,Nuclear,0.0,0.0
+2010,Onshore wind,2.92,1.383
+2010,Other fossil,2.27,1.075
+2010,Other renewables,0.67,0.317
+2010,Solar,0.0,0.0
+2011,Bioenergy,0.34,0.148
+2011,Gas,104.05,45.359
+2011,Hard coal,26.53,11.565
+2011,Hydro,52.34,22.817
+2011,Lignite,39.69,17.302
+2011,Nuclear,0.0,0.0
+2011,Onshore wind,4.72,2.058
+2011,Other fossil,1.03,0.449
+2011,Other renewables,0.69,0.301
+2011,Solar,0.0,0.0
+2012,Bioenergy,0.59,0.246
+2012,Gas,104.5,43.634
+2012,Hard coal,32.47,13.558
+2012,Hydro,57.86,24.16
+2012,Lignite,35.54,14.84
+2012,Nuclear,0.0,0.0
+2012,Onshore wind,5.86,2.447
+2012,Other fossil,1.77,0.739
+2012,Other renewables,0.9,0.376
+2012,Solar,0.0,0.0
+2013,Bioenergy,0.88,0.366
+2013,Gas,105.12,43.773
+2013,Hard coal,32.79,13.654
+2013,Hydro,59.42,24.743
+2013,Lignite,30.99,12.904
+2013,Nuclear,0.0,0.0
+2013,Onshore wind,7.56,3.148
+2013,Other fossil,2.03,0.845
+2013,Other renewables,1.36,0.566
+2013,Solar,0.0,0.0
+2014,Bioenergy,1.08,0.429
+2014,Gas,120.58,47.859
+2014,Hard coal,38.69,15.356
+2014,Hydro,40.64,16.13
+2014,Lignite,37.57,14.912
+2014,Nuclear,0.0,0.0
+2014,Onshore wind,8.52,3.382
+2014,Other fossil,2.49,0.988
+2014,Other renewables,2.36,0.937
+2014,Solar,0.02,0.008
+2015,Bioenergy,1.24,0.474
+2015,Gas,99.22,37.904
+2015,Hard coal,43.75,16.713
+2015,Hydro,67.15,25.652
+2015,Lignite,32.41,12.381
+2015,Nuclear,0.0,0.0
+2015,Onshore wind,11.65,4.45
+2015,Other fossil,2.74,1.047
+2015,Other renewables,3.42,1.306
+2015,Solar,0.19,0.073
+2016,Bioenergy,1.63,0.594
+2016,Gas,89.23,32.518
+2016,Hard coal,50.83,18.524
+2016,Hydro,67.23,24.501
+2016,Lignite,41.44,15.102
+2016,Nuclear,0.0,0.0
+2016,Onshore wind,15.52,5.656
+2016,Other fossil,2.66,0.969
+2016,Other renewables,4.82,1.757
+2016,Solar,1.04,0.379
+2017,Bioenergy,2.1,0.706
+2017,Gas,110.49,37.166
+2017,Hard coal,54.39,18.295
+2017,Hydro,58.22,19.584
+2017,Lignite,43.09,14.494
+2017,Nuclear,0.0,0.0
+2017,Onshore wind,17.9,6.021
+2017,Other fossil,2.08,0.7
+2017,Other renewables,6.13,2.062
+2017,Solar,2.89,0.972
+2018,Bioenergy,2.5,0.833
+2018,Gas,90.09,30.015
+2018,Hard coal,64.65,21.539
+2018,Hydro,59.75,19.907
+2018,Lignite,47.15,15.709
+2018,Nuclear,0.0,0.0
+2018,Onshore wind,19.86,6.617
+2018,Other fossil,1.44,0.48
+2018,Other renewables,6.91,2.302
+2018,Solar,7.8,2.599
+2019,Bioenergy,3.4,1.133
+2019,Gas,54.88,18.282
+2019,Hard coal,63.82,21.261
+2019,Hydro,88.64,29.529
+2019,Lignite,49.04,16.337
+2019,Nuclear,0.0,0.0
+2019,Onshore wind,21.63,7.206
+2019,Other fossil,0.97,0.323
+2019,Other renewables,8.23,2.742
+2019,Solar,9.57,3.188
+2020,Bioenergy,4.34,1.437
+2020,Gas,68.07,22.54
+2020,Hard coal,66.25,21.937
+2020,Hydro,77.86,25.781
+2020,Lignite,40.01,13.248
+2020,Nuclear,0.0,0.0
+2020,Onshore wind,24.61,8.149
+2020,Other fossil,0.34,0.113
+2020,Other renewables,9.32,3.086
+2020,Solar,11.2,3.709
+2021,Bioenergy,6.15,1.876
+2021,Gas,107.34,32.738
+2021,Hard coal,58.77,17.924
+2021,Hydro,55.51,16.93
+2021,Lignite,45.35,13.831
+2021,Nuclear,0.0,0.0
+2021,Onshore wind,31.02,9.461
+2021,Other fossil,0.35,0.107
+2021,Other renewables,10.11,3.083
+2021,Solar,13.28,4.05
+2022,Bioenergy,7.62,2.377
+2022,Gas,71.86,22.417
+2022,Hard coal,67.28,20.988
+2022,Hydro,66.66,20.795
+2022,Lignite,46.34,14.456
+2022,Nuclear,0.0,0.0
+2022,Onshore wind,34.69,10.822
+2022,Other fossil,0.73,0.228
+2022,Other renewables,10.22,3.188
+2022,Solar,15.16,4.729
+2023,Bioenergy,8.21,2.567
+2023,Gas,66.48,20.789
+2023,Hard coal,75.81,23.706
+2023,Hydro,63.72,19.926
+2023,Lignite,42.22,13.202
+2023,Nuclear,0.0,0.0
+2023,Onshore wind,33.88,10.594
+2023,Other fossil,0.94,0.294
+2023,Other renewables,10.13,3.168
+2023,Solar,18.4,5.754
+2024,Bioenergy,8.68,2.544
+2024,Gas,63.28,18.545
+2024,Hard coal,78.61,23.037
+2024,Hydro,74.57,21.853
+2024,Lignite,42.71,12.516
+2024,Nuclear,0.0,0.0
+2024,Onshore wind,36.53,10.705
+2024,Other fossil,0.98,0.287
+2024,Other renewables,10.2,2.989
+2024,Solar,25.67,7.523

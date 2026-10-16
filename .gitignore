@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.DS_Store
+
+.venv/
+venv/
+.env
+.DS_Store
+site/.vercel/
