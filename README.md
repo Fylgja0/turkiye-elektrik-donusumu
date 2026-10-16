@@ -90,7 +90,7 @@ Yayın sonrası `site/index.html` içindeki `og:image` değerini **mutlak HTTPS 
 
 ## Canlı Demo
 
-https://turkiye-elektrik-donusumu.vercel.app/
+<https://turkiye-elektrik-donusumu.vercel.app/>
 
 ## Akademik kullanım ve yapay zekâ beyanı
 
